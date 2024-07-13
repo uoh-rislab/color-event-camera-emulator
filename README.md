@@ -4,7 +4,7 @@ This is the repository that contains source code for [A Color Event-Based Camera
 
 If you find this emulator useful for your work please cite:
 ```
-@InProceedings{bugueno2024coloreventcameraemulator,
+@InProceedings{bugueno2024coloreventemulator,
   author="Bugueno-Cordova, Ignacio
   and Campusano, Miguel
   and Guaman-Rivera, Robert
