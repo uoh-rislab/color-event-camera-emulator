@@ -1,6 +1,6 @@
 # A Color Event-Based Camera Emulator for Robot Vision
 
-This is the repository that contains source code for [A Color Event-Based Camera Emulator for Robot Vision website](https://color-event-camera-emulator.github.io).
+This is the repository that contains source code for [A Color Event-Based Camera Emulator for Robot Vision website](https://uoh-rislab.github.io/color-event-camera-emulator/).
 
 If you find this emulator useful for your work please cite:
 ```
